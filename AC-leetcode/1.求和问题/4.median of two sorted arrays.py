@@ -70,5 +70,5 @@ def findMedianSortedArrays(A, B):
 
 
 nums1 = [1, 2]
-nums2 = [3, 4]
-findMedianSortedArrays(A=nums1, B=nums2)
+nums2 = [3]
+print(findMedianSortedArrays(A=nums1, B=nums2))

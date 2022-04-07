@@ -34,5 +34,5 @@ def commonchars(A):
     return result
 
 
-words = ["bella", "label", "roller"]
+words = ["label", "bella",  "roller"]
 print(commonchars(A=words))
